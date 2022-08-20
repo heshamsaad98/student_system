@@ -1,0 +1,2 @@
+D:\Education 2020\Project1.NET\obj\Debug\Interop.DAO.dll
+D:\Education 2020\Project1.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
